@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @minhthanhpham2011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @minhthanhpham2011
 
-<!---
-minhthanhpham2011/minhthanhpham2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Interests:**
+  - Blockchain technology and cryptocurrencies
+  - Artificial intelligence and machine learning
+  - Software development and open-source projects
+  - Data science and analytics
+
+- 🌱 **Currently Learning:**
+  - Advanced Python programming
+  - Deep learning techniques
+  - Smart contract development on Ethereum
+  - Data visualization with D3.js and Tableau
+
+- 💞️ **Looking to Collaborate On:**
+  - Open-source blockchain projects
+  - AI and machine learning research
+  - Decentralized applications (DApps)
+  - Data analysis and visualization projects
